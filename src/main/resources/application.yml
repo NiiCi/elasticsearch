@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: leyou-es
+      cluster-nodes: 148.70.3.235:9300
